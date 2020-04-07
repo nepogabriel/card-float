@@ -1,0 +1,3 @@
+Recentemente comecei acompanhar o canal no youtube do Giordane Oliveira, onde ele fala bastante sobre Front-End. Me interessei por um projetinho básico, mas muito eficiente! Onde é adicionado um efeito 3D em um card utilizando apenas CSS. Projeto básico onde te passa uma criatividade para adicionar esse efeito em projetos reais e complexos.
+
+Canal do Giordane Oliveira: https://www.youtube.com/channel/UCANI94YmcIGmabIDPx5oHYg
